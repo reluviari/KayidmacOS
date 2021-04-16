@@ -1,5 +1,7 @@
 # KayidmacOS
-My macOS Development Environment Setup
+Instalação:
+
+wget -P $ZSH_CUSTOM/themes/ https://github.com/reluviari/KayidmacOS/blob/master/kayid.zsh-theme
 
 
 Credits
